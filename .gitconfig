@@ -1,0 +1,10 @@
+[user]
+	username = pierbover
+	name = Pier Bover
+	location = Cancún
+	website = pierbover.com
+	bio = Started writing Basic as an 80s kid and have been doing mostly web dev since the late 90s. Did a lot of Flash AS3 back in the day, now focused on full stack JS.
+[commit]
+	gpgsign = true
+[aliases]
+	github = pierbover
